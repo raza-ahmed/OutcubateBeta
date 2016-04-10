@@ -1,7 +1,8 @@
 <resources>
 
     <color name="top_bar_background">#514BBE</color>
-    <color name="splash_text">#514BBE</color>
+    <color name="splash_text">#9797EF</color>
+    <color name="white_text">#FFFFFF</color>
     <color name="secondary_color">#FD458C</color>
     <color name="splash_background">#FFFFFF</color>
     <color name="main_background">#FFFFFF</color>
@@ -12,4 +13,5 @@
     <color name="dark_content_text">#333333</color>
     <color name="sign_in_separator_color">#DDDDDD</color>
     <color name="instructions_list_border_color">#FFDDDDDD</color>
+
 </resources>

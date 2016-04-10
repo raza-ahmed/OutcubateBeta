@@ -1,5 +1,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/top_bar_background"
+
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
 
     tools:context="com.mysampleapp.SignInActivity">
@@ -13,21 +16,29 @@
         >
         <EditText
             android:id="@+id/signIn_editText_email"
+            android:drawableLeft="@drawable/user_icon"
+            android:drawablePadding="5dp"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/sign_in_text_margin"
             android:layout_marginRight="@dimen/sign_in_text_margin"
             android:inputType="textEmailAddress"
             android:hint="@string/sign_in_email"
+            android:textColorHint="@color/splash_text"
+            android:textColor="@color/white_text"
             />
         <EditText
             android:id="@+id/signIn_editText_password"
+            android:drawableLeft="@drawable/lock_icon"
+            android:drawablePadding="5dp"
+            android:textColorHint="@color/splash_text"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/sign_in_text_margin"
             android:layout_marginRight="@dimen/sign_in_text_margin"
             android:inputType="textPassword"
             android:hint="@string/sign_in_password"
+            android:textColor="@color/white_text"
             />
         <ImageButton
             android:id="@+id/signIn_imageButton_login"
