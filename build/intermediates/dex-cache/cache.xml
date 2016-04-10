@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ahmedraza/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.11/26f86360a57bc6f750e8ee1628c45e1eda4abe68/aws-android-sdk-core-2.2.11.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="26f86360a57bc6f750e8ee1628c45e1eda4abe68">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.11_8a338b61386522a15dcaafb93c294d2e5f412c46/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_648b7684efc48cf47d8c7aada8e11288c3056d16/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-sqs/2.2.11/c110f281a77612eabe92248dfc99621d58e0a145/aws-android-sdk-sqs-2.2.11.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c110f281a77612eabe92248dfc99621d58e0a145">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-sqs-2.2.11_47ad07c0b66d8cd9e1555b1151b837411c61887d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_4197a3bd909aec620cb89fd3ca04201db51a8244/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b5b547bae5f48532d95efb96a319cd02eddc10b6">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_801c661d61990764fde05d7d96269cf0c25a0c67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.2.11/4aa510782be09934b13b0259ac3246a4be164c27/aws-android-sdk-s3-2.2.11.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4aa510782be09934b13b0259ac3246a4be164c27">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.2.11_b052a19d8ee7dc9d48e59438a9cd3e69445b899a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-sns/2.2.11/f12ba81f9a5c53bdc2d3146dd5933f582a0bba23/aws-android-sdk-sns-2.2.11.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f12ba81f9a5c53bdc2d3146dd5933f582a0bba23">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-sns-2.2.11_08932bd81372b60bfa3a7eb02b7365da3df9d9c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.2.11/a0a93d1bd95a14a80a86bf197eb8db507031e832/aws-android-sdk-cognito-2.2.11.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a0a93d1bd95a14a80a86bf197eb8db507031e832">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.2.11_dbf56d190e31f1c478221b9f71582b60a46827fa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.8.0_1317a6826b6614afc292143d11f9322c404abb93/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_a624aa69127e37151422b56279b37d7dbddb49c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-7.8.0_6a4a314b54056cb2f91be8cfae7a7fae6f14d0e3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_35b394587fa3e17478289c575044bf7481982dee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0d253e00d38008ff15ec1d73c8dd45140a75eea1">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4cb736d2dde2c520e5cba54410dfd3752a8f2ad2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-mobileanalytics/2.2.11/293e98aaec181ec364c00db53b6015d322a65c8f/aws-android-sdk-mobileanalytics-2.2.11.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="293e98aaec181ec364c00db53b6015d322a65c8f">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-mobileanalytics-2.2.11_489a037d370cd404743f84050fc1facfbad68acd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_e807837629e817cb0b71fcf81d9c77f0303068bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-7.8.0_68f59cbe04704dbcad8364286ef1109e9434c909/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/ahmedraza/Downloads/OutcubateBeta-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+
+</items>
